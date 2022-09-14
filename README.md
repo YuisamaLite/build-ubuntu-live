@@ -1,9 +1,5 @@
 # 从零开始制作 Ubuntu 22.04 Live CD
 
-## 目录
-
-[toc]
-
 ## 前言
 
 最近想做一个基于原生 GNOME 桌面的 Ubuntu LiveCD，然后就想到了 Debian 系的 LiveCD 构建工具 live-build，就安装了一个 Ubuntu 版本试一试，发现太老了没法用。
